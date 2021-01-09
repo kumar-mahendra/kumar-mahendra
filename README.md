@@ -4,14 +4,14 @@
 - 🎓 I am an **ML Enthusiast** and currently persuing **Mathematics and Computer Science** at **IIT Goa**  </br>
 - :bell: My passions are **Applied Mathematics**, **Data Science**, and **Machine Learning** </br>
 - :blue_book: Currently learning about **Data Structure and Algorithms** and reading a book **AI and ML for Coders**. 
-- 👯Also starting my journey into **Open Source** world ! </br>
+- 👯 Also starting my journey into **Open Source** world ! </br>
 - :eyes: I’m looking forward to a wonderful year full of **opportunities**. </br>
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/kumar-mahendra/">
   <img align="left" alt="Mahendra's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Mahendra-Kumar-Suthar">
+<a href="https://github.com/kumar-mahendra">
   <img align="left" alt="Mahendra's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
