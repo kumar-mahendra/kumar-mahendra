@@ -12,7 +12,7 @@
 [![Mahendra's github stats](https://github-readme-stats.vercel.app/api?username=kumar-mahendra&show_icons=true&theme=radical)](https://github.com/kumar-mahendra)
 
 ### Connect with me:
-- <a href="https://www.linkedin.com/in/kumar-mahendra/">
+ <a href="https://www.linkedin.com/in/kumar-mahendra/">
   <img align="left" alt="Mahendra's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
  <a href="https://github.com/kumar-mahendra">
