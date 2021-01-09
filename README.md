@@ -18,7 +18,7 @@
 <a href="https://github.com/kumar-mahendra">
   <img align="left" alt="Mahendra's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href=https://twitter.com/_kumar_mahendra">
+<a href="https://twitter.com/_kumar_mahendra">
   <img align="left" alt="Mahendra's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
