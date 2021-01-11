@@ -9,7 +9,6 @@
 <br/>
 
 
-[![Mahendra's github stats](https://github-readme-stats.vercel.app/api?username=kumar-mahendra&show_icons=true&theme=radical)](https://github.com/kumar-mahendra)
 
 ### Connect with me:
  <a href="https://www.linkedin.com/in/kumar-mahendra/">
