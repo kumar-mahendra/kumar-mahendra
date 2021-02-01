@@ -1,7 +1,7 @@
 ## :pray::pray: Welcome , I'm  Mahendra !
 
 ### Knock,Knock!! :point_down::point_down:
-- 🎓 I am an **Data Enthusiast** and currently persuing **Mathematics and Computer Science** at **IIT Goa**  </br>
+- 🎓 I am a **Data Enthusiast** and currently persuing **Mathematics and Computer Science** at **IIT Goa**  </br>
 - :bell: My passions are **Applied Mathematics**, **Data Science**, and **Machine Learning** </br>
 - :blue_book: Currently learning about **Data Structure and Algorithms** and reading a book **AI and ML for Coders**. 
 - 👯 Also starting my journey into **Open Source** world ! </br>
