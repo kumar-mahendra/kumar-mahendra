@@ -3,7 +3,7 @@
 ### Knock,Knock!! :point_down::point_down:
 - 🎓 I am a **Data Enthusiast** and currently persuing **Mathematics and Computer Science** at **IIT Goa**  </br>
 - :bell: My passions are **Applied Mathematics**, **Data Science**, and **Machine Learning** </br>
-- :blue_book: Currently learning about **Algorithms Designs & Scientific Computing** and reading a book **AI and ML for Coders**. 
+- :blue_book: Currently learning about **Algorithms Designs & Scientific Computing**. 
 - 👯 Also starting my journey into **Open Source** world ! </br>
 - :eyes: I’m looking forward to a wonderful year full of **opportunities**. </br>
 <br/>
