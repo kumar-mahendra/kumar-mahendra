@@ -3,7 +3,8 @@
 - 👨‍💻 I am currently working as **Blockchain Core Developer** at Cognam Technologies Pvt. Ltd. </br>
 - 🎓 I have completed my B.Tech in **Mathematics & Computing** from IIT Goa, with decent CGPA ( believe me 😅). </br>
 - 🔎 I am currently trying to understand buzz around zero knowledge proofs and learning relevent technologies to implement them.</br>
-- 🔥Specifically, I will be building **ZK-SNARKS** circuits written in circom DSL to perform some interesting tasks on blockchain we are building. Stay Tuned !!. 
+- 🔥Specifically, I will be building **ZK-SNARKS** circuits written in circom DSL to perform some interesting tasks on blockchain we are building. Stay Tuned !!.
+- 🤓 Also, Alongside this leaning nuances of ethereum based blockchain and implementing measure to protect blockchain against dos attack. 
 - 👀 Looking forward to a wonderful year full of **learning and excitement**. </br>
 <br/>
 
